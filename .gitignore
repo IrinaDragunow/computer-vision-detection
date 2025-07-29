@@ -1,0 +1,7 @@
+cv-env/
+__pycache__/
+*.pyc
+*.pt
+*.onnx
+.DS_Store
+.env
