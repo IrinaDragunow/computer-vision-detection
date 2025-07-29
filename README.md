@@ -3,7 +3,7 @@
 ![Demo](https://img.shields.io/badge/Demo-Live-brightgreen) ![Python](https://img.shields.io/badge/Python-3.9+-blue) ![AI](https://img.shields.io/badge/AI-YOLOv8-orange)
 
 ## 🚀 **Live Demo**
-👉 **[Try it here: Live Computer Vision App](https://irina-cv-detection.streamlit.app)**
+👉 **[Try it here: Live Computer Vision App](https://computer-vision-detection.streamlit.app)**
 
 *Upload an image and watch AI detect objects in real-time!*
 
