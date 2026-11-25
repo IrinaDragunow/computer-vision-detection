@@ -368,6 +368,6 @@ st.markdown("---")
 st.markdown("""
 <div style="text-align: center; padding: 2rem; background: linear-gradient(135deg, #8E99AC, #BDC2C7); border-radius: 10px; margin-top: 2rem;">
     <h3 style="color: white; margin-bottom: 1rem;">⬛ Computer Vision Detection</h3>
-    <p style="color: white; margin: 0;">Enterprise-grade AI Object Detection | YOLOv8 + Streamlit</p>
+    <p style="color: white; margin: 0;">Learning project | YOLOv8 + Streamlit</p>
 </div>
 """, unsafe_allow_html=True)
